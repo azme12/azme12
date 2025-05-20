@@ -1,12 +1,31 @@
-### 🧠 A little bit about Me
+## 👋 Hi, I'm Azmeraw
 
-```python
-azmeraw = {
-  'looking_for': ['Backend Developer position', 'Open Source collaboration'],
-  'tech_stacks': ['Golang', 'Rust', 'Python', 'FastAPI', 'Django', 'JavaScript', 'NestJS'],
-  'hobbies': ['Reading', 'Building apps', 'Learning new tech'],
-  'fun_facts': ['Coffee lover ☕', 'Always curious to learn more 🧠']
-}
+I'm a passionate software developer from Addis Ababa 🇪🇹  
+Always learning, building, and contributing to open-source 🌍
+
+---
+
+### 🔍 What I'm Looking For
+- 🧑‍💻 Backend Developer positions
+- 🤝 Open Source collaboration opportunities
+
+### 🛠️ Tech Stacks
+- **Languages:** Golang, Rust, Python, JavaScript, TypeScript
+- **Frameworks:** FastAPI, Django, NestJS, React
+
+### 📚 Hobbies
+- 📖 Reading
+- 🛠️ Building apps
+- 🚀 Learning new tech
+
+### ☕ Fun Facts
+- Coffee lover
+- Always curious to learn more 🧠
+
+---
+
+📍 Based in **Addis Ababa**  
+🔗 [LinkedIn](https://www.linkedin.com/in/azmeraw-tefera-3092a9242/)
 
 
 
