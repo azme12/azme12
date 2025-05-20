@@ -7,7 +7,7 @@
 
 ---
 
-### 🔍 Currently Looking For
+<h2>🔍 Currently Looking For </h2>
 - 🧑‍💻 Backend Developer positions
 - 🤝 Open Source collaboration opportunities
 
