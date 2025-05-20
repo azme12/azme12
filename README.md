@@ -11,7 +11,7 @@
 - 🧑‍💻 Backend Developer positions
 - 🤝 Open Source collaboration opportunities
 
-### 💻 Tech Stack
+<h2>💻 Tech Stack</h2>
 
 <p align="left">
   <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
