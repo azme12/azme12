@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Azmeraw</h2>
+<h3 align="center">👋 Hi there, I'm Azmeraw</h3>
 
 <p align="center">
   <b>Backend Developer | Open Source Contributor | Tech Explorer</b><br/>
